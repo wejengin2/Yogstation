@@ -1,0 +1,1980 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aI" = (
+/obj/structure/table/wood/fancy/royalblue,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"aP" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/atmos,
+/obj/effect/decal/cleanable/vomit/old,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"bo" = (
+/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"br" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/grilledcheese,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"bx" = (
+/obj/structure/sign/poster/contraband/eat,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/closed/wall,
+/area/ruin/powered)
+"bC" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/pizza/arnold,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"cb" = (
+/obj/structure/chair/wood/wings,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"ce" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/reagent_containers/food/snacks/butter/on_a_stick,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"cC" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
+	dir = 5
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"cG" = (
+/obj/item/gun/ballistic/shotgun,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"cS" = (
+/obj/item/toy/figure/secofficer,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"dY" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/pizza/sassysage,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"fe" = (
+/obj/machinery/vending/dinnerware,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"ff" = (
+/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"fm" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/kebab/human,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"fo" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burger/spell{
+	pixel_x = -5;
+	pixel_y = 2
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"fr" = (
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"fs" = (
+/obj/structure/table/wood/fancy/red,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"fv" = (
+/turf/open/space/basic,
+/area/ruin/unpowered/no_grav)
+"fB" = (
+/obj/machinery/light,
+/obj/item/kitchen/knife/butcher,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"fK" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/bearsteak,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"gD" = (
+/obj/item/toy/figure/mime,
+/obj/effect/decal/cleanable/food/salt,
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"gL" = (
+/turf/closed/mineral,
+/area/ruin/unpowered/no_grav)
+"gU" = (
+/obj/machinery/door/airlock/silver,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"hk" = (
+/obj/item/toy/figure/chef,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"hp" = (
+/obj/machinery/camera{
+	c_tag = "AI Satellite Access"
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"hI" = (
+/obj/structure/table/wood/fancy/royalblue,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"hM" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/toy/prize/honk,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"hN" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/obj/item/toy/figure/geneticist,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"hR" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"ie" = (
+/obj/machinery/space_heater,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"if" = (
+/obj/structure/sink/kitchen{
+	pixel_y = 20
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"iw" = (
+/obj/item/toy/figure/assistant,
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"iE" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/ce,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"iL" = (
+/obj/item/gps{
+	gpstag = "MacSpace"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"iN" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/fishfingers,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"iP" = (
+/obj/item/toy/plush/snakeplushie,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"iU" = (
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"je" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"jg" = (
+/obj/machinery/vending/cola,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"jC" = (
+/obj/machinery/smartfridge/food,
+/turf/closed/wall,
+/area/ruin/powered)
+"jX" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"kN" = (
+/obj/machinery/light,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"kT" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/honkdae,
+/obj/structure/table,
+/obj/structure/table,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"kV" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"lQ" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"lS" = (
+/obj/item/toy/figure/detective,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/food/salt,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"mL" = (
+/obj/structure/chair/stool/bar,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"mV" = (
+/obj/structure/closet/secure_closet/freezer/kitchen{
+	locked = 0;
+	req_access = null
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"nd" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burger/baconburger,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"ny" = (
+/obj/item/toy/figure/chaplain,
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"nV" = (
+/obj/structure/closet/secure_closet/freezer/meat{
+	req_access = null
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"ok" = (
+/obj/item/reagent_containers/food/snacks/pie/grapetart,
+/obj/structure/table,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"oo" = (
+/obj/machinery/door/airlock/silver,
+/turf/open/floor/mineral/gold,
+/area/ruin/powered)
+"ov" = (
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"oB" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/obj/item/toy/figure/chemist,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"oS" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"pb" = (
+/obj/machinery/mech_bay_recharge_port,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"pc" = (
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"ps" = (
+/obj/structure/closet/secure_closet/freezer/kitchen{
+	req_access = null
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"pN" = (
+/obj/structure/statue/silver/sec,
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"pV" = (
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/obj/item/toy/figure/md,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"qx" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/structure/reagent_dispensers/beerkeg,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"qM" = (
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/obj/item/toy/plush/slimeplushie,
+/obj/item/toy/figure/rd,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"qO" = (
+/obj/effect/decal/cleanable/food/egg_smudge,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"qQ" = (
+/obj/machinery/atmospherics/components/unary/tank/oxygen,
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"qT" = (
+/obj/item/bedsheet/patriot,
+/obj/item/bedsheet/patriot,
+/obj/item/bedsheet/patriot,
+/obj/machinery/vending/wardrobe/bar_wardrobe,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"rf" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/toastedsandwich,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"rF" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burrito,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"rO" = (
+/obj/structure/reagent_dispensers/cooking_oil,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"rP" = (
+/obj/machinery/atmospherics/components/unary/portables_connector/visible{
+	dir = 1
+	},
+/obj/machinery/portable_atmospherics/pump,
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"rY" = (
+/obj/item/reagent_containers/food/snacks/burger/human,
+/obj/structure/table/wood/fancy/royalblue,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"sm" = (
+/turf/open/space/basic,
+/area/template_noop)
+"sx" = (
+/obj/machinery/gibber,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"th" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/captain,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"tt" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"ub" = (
+/obj/effect/decal/cleanable/cobweb,
+/obj/effect/spawner/lootdrop/armory_contraband/metastation,
+/obj/structure/closet,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"uj" = (
+/obj/machinery/door/airlock/gold/glass,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"uy" = (
+/obj/item/reagent_containers/food/snacks/burrito,
+/obj/structure/table,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"vO" = (
+/obj/machinery/atmospherics/pipe/manifold4w,
+/turf/closed/wall,
+/area/ruin/powered)
+"vW" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/pizza/dank,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"wQ" = (
+/obj/item/toy/figure/warden,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/food/salt,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"wT" = (
+/obj/machinery/door/airlock/silver,
+/obj/structure/fans/tiny,
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"wV" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burger/mime,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"xh" = (
+/obj/structure/chair/wood/wings,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"xk" = (
+/obj/machinery/light,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"xl" = (
+/obj/machinery/light,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"xn" = (
+/obj/vehicle/ridden/janicart/upgraded,
+/turf/open/floor/mineral/titanium,
+/area/ruin/unpowered/no_grav)
+"xH" = (
+/obj/vehicle/ridden/atv,
+/turf/open/floor/mineral/titanium,
+/area/ruin/unpowered/no_grav)
+"xI" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/assistant,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"xL" = (
+/turf/closed/wall,
+/area/ruin/powered)
+"yE" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/salad/validsalad,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"yO" = (
+/turf/open/floor/mineral/titanium,
+/area/ruin/unpowered/no_grav)
+"zl" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"zm" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/pizza/donkpocket,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"zQ" = (
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/obj/item/toy/talking/AI,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Ax" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/pizza/meat,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"AG" = (
+/obj/item/toy/figure/curator,
+/obj/structure/chair/wood/wings,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"AN" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/assistant,
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"AO" = (
+/obj/effect/decal/cleanable/food/flour,
+/turf/closed/wall,
+/area/ruin/powered)
+"AP" = (
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"AV" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/reagent_containers/food/snacks/fries,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"BQ" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
+	dir = 9
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"BS" = (
+/obj/item/toy/figure/botanist,
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Cc" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/reagent_containers/food/snacks/burger/fish,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Ck" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/closed/wall,
+/area/ruin/powered)
+"CB" = (
+/obj/item/toy/figure/chef,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"CM" = (
+/obj/structure/tank_dispenser,
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"CS" = (
+/obj/structure/closet/secure_closet/freezer/meat{
+	req_access = null
+	},
+/obj/item/aicard/aitater,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Dn" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/hop,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Dv" = (
+/obj/item/toy/figure/chef,
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"DB" = (
+/obj/machinery/deepfryer,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"DL" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burger/empoweredburger{
+	pixel_x = 5;
+	pixel_y = -6
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"DM" = (
+/obj/machinery/processor,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"DO" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/reagent_containers/food/snacks/burger/superbite,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"DZ" = (
+/obj/item/toy/figure/syndie,
+/obj/item/gun/ballistic/automatic/toy/pistol,
+/obj/item/toy/syndicateballoon,
+/obj/item/toy/sword,
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/food/salt,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Ex" = (
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"EI" = (
+/obj/structure/table,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Fd" = (
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/obj/item/toy/plush/nukeplushie,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Fo" = (
+/obj/structure/sign/poster/contraband/eat,
+/turf/closed/wall,
+/area/ruin/powered)
+"Fu" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/obj/item/toy/figure/cmo,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"FA" = (
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"FM" = (
+/obj/structure/table,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Gf" = (
+/obj/machinery/jukebox,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Gi" = (
+/obj/machinery/atmospherics/components/unary/tank/air,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Gt" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/fishandchips,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Gx" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/bearsteak,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"GA" = (
+/obj/structure/chair/wood/wings,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"GO" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/reagent_containers/food/snacks/fishfingers,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"GU" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/obj/item/toy/figure/scientist,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Hd" = (
+/obj/structure/chair/stool/bar,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Hl" = (
+/obj/structure/closet/secure_closet/bar{
+	req_access = null
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Hs" = (
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"HT" = (
+/obj/machinery/vending/donksofttoyvendor,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Ia" = (
+/turf/open/floor/plasteel/stairs,
+/area/ruin/powered)
+"If" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/food/egg_smudge,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Il" = (
+/obj/item/toy/figure/lawyer,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Is" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/food/egg_smudge,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"It" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burger/jelly/slime,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"IC" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"IQ" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/obj/item/toy/toy_xeno,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"IX" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/pie/appletart,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"JM" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burger/clown,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"JY" = (
+/obj/machinery/door/airlock/freezer,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Kc" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/omelette,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Kl" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/carneburrito,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"KO" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/reagent_containers/food/snacks/burger/superbite,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"KR" = (
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/obj/item/toy/figure/virologist,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"LA" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/engineer,
+/obj/item/toy/plush/carpplushie,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"LB" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/ian,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"LH" = (
+/turf/open/floor/mech_bay_recharge_floor,
+/area/ruin/powered)
+"LX" = (
+/turf/open/floor/plating/asteroid/airless,
+/area/ruin/unpowered/no_grav)
+"Mc" = (
+/obj/item/toy/figure/janitor,
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/obj/item/toy/plush/lizardplushie,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Mf" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Mj" = (
+/obj/machinery/door/airlock/silver,
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"Mp" = (
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"My" = (
+/obj/machinery/light/floor,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"MU" = (
+/obj/item/toy/figure/wizard,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/food/pie_smudge,
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"NN" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Oe" = (
+/obj/machinery/reagentgrinder{
+	pixel_y = 5
+	},
+/obj/structure/table,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"OD" = (
+/obj/structure/closet/crate/freezer/blood,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"OO" = (
+/obj/item/toy/figure,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"OQ" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/reagent_containers/food/snacks/friedegg,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"OZ" = (
+/obj/effect/decal/cleanable/generic,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Pi" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/reagent_containers/food/snacks/carrotfries,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Ql" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Qm" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/benedict,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Rb" = (
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"RE" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
+	dir = 6
+	},
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"RK" = (
+/obj/machinery/light/floor,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Sg" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Sn" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium,
+/area/ruin/powered)
+"SH" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/obj/item/toy/figure/roboticist,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"SL" = (
+/obj/item/toy/figure/miner,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/chair/wood/wings,
+/obj/item/toy/plush/bubbleplush,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"SS" = (
+/obj/item/toy/figure/hos,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/food/salt,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Tw" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"TG" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burger/rat,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"TM" = (
+/obj/item/reagent_containers/food/snacks/burger/baseball,
+/obj/structure/table/wood/fancy/royalblue,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"TR" = (
+/obj/item/reagent_containers/food/snacks/burger/xeno,
+/obj/structure/table/wood/fancy/royalblue,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"TS" = (
+/obj/item/toy/figure/qm,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/food/salt,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Ue" = (
+/obj/item/toy/figure/botanist,
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/obj/item/toy/plush/beeplushie,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Vl" = (
+/obj/item/toy/figure/cargotech,
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"VM" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/food/egg_smudge,
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"VO" = (
+/obj/machinery/microwave{
+	pixel_y = 5
+	},
+/obj/structure/table,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"VR" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
+	dir = 6
+	},
+/turf/closed/wall,
+/area/ruin/powered)
+"VZ" = (
+/obj/item/toy/figure/bartender,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Wf" = (
+/obj/effect/decal/cleanable/generic,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Wr" = (
+/turf/closed/wall,
+/area/ruin/unpowered/no_grav)
+"WE" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/pizza/pineapple,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Xa" = (
+/obj/machinery/light/floor,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/water,
+/area/ruin/powered)
+"Xt" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/cubancarp,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"XH" = (
+/obj/item/toy/figure/clown,
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"XL" = (
+/obj/machinery/vending/boozeomat,
+/turf/closed/wall,
+/area/ruin/powered)
+"XT" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/kebab/tail,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Yc" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/kebab/rat/double,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Yg" = (
+/obj/machinery/vending/wardrobe/chef_wardrobe,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Ym" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/food/egg_smudge,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"YE" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
+	dir = 5
+	},
+/turf/closed/wall,
+/area/ruin/powered)
+"YX" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/pizza/mushroom{
+	pixel_x = -5
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"Zm" = (
+/obj/effect/decal/cleanable/food/egg_smudge,
+/obj/structure/table,
+/obj/item/reagent_containers/food/snacks/burger/yellow,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered)
+"ZG" = (
+/obj/structure/chair/stool/bar,
+/obj/item/toy/figure/engineer,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+
+(1,1,1) = {"
+sm
+sm
+sm
+LX
+LX
+LX
+LX
+sm
+sm
+sm
+sm
+LX
+LX
+sm
+sm
+sm
+sm
+LX
+sm
+sm
+sm
+sm
+sm
+sm
+sm
+sm
+"}
+(2,1,1) = {"
+sm
+sm
+sm
+LX
+LX
+LX
+LX
+sm
+sm
+LX
+LX
+LX
+LX
+LX
+sm
+sm
+LX
+LX
+LX
+LX
+LX
+sm
+sm
+sm
+sm
+sm
+"}
+(3,1,1) = {"
+sm
+sm
+sm
+LX
+LX
+LX
+LX
+LX
+LX
+gL
+gL
+gL
+LX
+LX
+LX
+LX
+LX
+LX
+LX
+LX
+LX
+LX
+sm
+sm
+sm
+sm
+"}
+(4,1,1) = {"
+sm
+LX
+LX
+LX
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+Wr
+LX
+LX
+LX
+sm
+sm
+sm
+sm
+"}
+(5,1,1) = {"
+sm
+LX
+LX
+LX
+xL
+ie
+ny
+Ex
+hM
+XH
+zl
+Ex
+Ex
+TS
+zl
+pc
+Gx
+pc
+xL
+LX
+LX
+LX
+LX
+sm
+sm
+sm
+"}
+(6,1,1) = {"
+sm
+LX
+LX
+LX
+xL
+AG
+DL
+OO
+kV
+JM
+Kc
+Ex
+qO
+fo
+fK
+wQ
+Yc
+Il
+xL
+LX
+LX
+LX
+LX
+sm
+sm
+sm
+"}
+(7,1,1) = {"
+sm
+LX
+LX
+LX
+xL
+iP
+iw
+Wf
+Ex
+wV
+Xt
+Mp
+Ql
+br
+EI
+SS
+yE
+cS
+xL
+gL
+LX
+LX
+LX
+LX
+LX
+sm
+"}
+(8,1,1) = {"
+sm
+LX
+LX
+LX
+xL
+kV
+kV
+kV
+kV
+gD
+iU
+IC
+Sg
+iU
+MU
+lS
+TG
+cS
+xL
+gL
+LX
+LX
+LX
+LX
+LX
+LX
+"}
+(9,1,1) = {"
+sm
+LX
+LX
+LX
+xL
+Ex
+FM
+FM
+Ex
+Ex
+OZ
+IC
+IC
+RK
+IC
+cb
+Zm
+pc
+xL
+gL
+gL
+LX
+LX
+LX
+LX
+LX
+"}
+(10,1,1) = {"
+LX
+LX
+LX
+LX
+xL
+Gf
+Hs
+Hs
+Ex
+mL
+LA
+Hd
+Mp
+IC
+IC
+cb
+uy
+pc
+xL
+xL
+xL
+xL
+xL
+yO
+yO
+LX
+"}
+(11,1,1) = {"
+LX
+LX
+LX
+LX
+xL
+xL
+xL
+xL
+xL
+fs
+Cc
+aP
+OZ
+IC
+NN
+cb
+Kc
+pc
+xL
+ov
+CM
+CM
+xL
+xH
+yO
+LX
+"}
+(12,1,1) = {"
+LX
+LX
+LX
+LX
+xL
+ub
+Ex
+xL
+Hl
+VZ
+fs
+Hd
+Mp
+Ql
+If
+cb
+rF
+pc
+Fo
+ov
+ov
+ov
+Fo
+yO
+yO
+sm
+"}
+(13,1,1) = {"
+LX
+LX
+LX
+LX
+xL
+if
+Ex
+xL
+Hl
+CB
+GO
+ZG
+TR
+hI
+TM
+cb
+Qm
+xk
+xL
+pN
+ov
+ov
+xL
+xH
+yO
+sm
+"}
+(14,1,1) = {"
+LX
+LX
+LX
+gL
+xL
+DM
+Ex
+uj
+Ex
+qO
+DO
+iE
+aI
+Xa
+hI
+Mp
+Mf
+Ex
+oo
+Ia
+ov
+ov
+Mj
+yO
+yO
+sm
+"}
+(15,1,1) = {"
+LX
+LX
+LX
+gL
+xL
+Oe
+fB
+xL
+lQ
+Ex
+fs
+th
+TR
+hI
+rY
+Mp
+Ym
+kV
+oo
+Ia
+ov
+ov
+wT
+yO
+yO
+sm
+"}
+(16,1,1) = {"
+LX
+xL
+xL
+xL
+xL
+VO
+Ex
+jC
+Ex
+Ex
+Pi
+Hd
+Mp
+IC
+IC
+Mp
+Ex
+xl
+xL
+pN
+ov
+ov
+xL
+yO
+yO
+sm
+"}
+(17,1,1) = {"
+LX
+xL
+Gi
+cC
+xL
+DB
+Ex
+xL
+Is
+hk
+KO
+xI
+IQ
+GU
+SH
+xh
+iN
+fr
+bx
+pb
+Sn
+ov
+Fo
+yO
+yO
+sm
+"}
+(18,1,1) = {"
+LX
+xL
+Gi
+ff
+Ck
+fe
+jX
+Ck
+bo
+oS
+OQ
+Hd
+nd
+bC
+It
+cb
+Kl
+pc
+xL
+LH
+RE
+rP
+xL
+xH
+yO
+sm
+"}
+(19,1,1) = {"
+gL
+xL
+Gi
+BQ
+gU
+Ex
+Ex
+XL
+Ex
+Ex
+AV
+AN
+qM
+zQ
+zQ
+cb
+Gt
+pc
+xL
+VR
+vO
+YE
+xL
+xH
+yO
+sm
+"}
+(20,1,1) = {"
+gL
+xL
+Yg
+Ex
+xL
+Ex
+kN
+xL
+Ex
+Dv
+DO
+AN
+Mp
+Mp
+Mp
+Ql
+Ex
+kN
+xL
+qQ
+qQ
+qQ
+xL
+yO
+yO
+LX
+"}
+(21,1,1) = {"
+LX
+xL
+qT
+Ex
+xL
+Ex
+Rb
+xL
+Ex
+Rb
+fs
+Dn
+IC
+My
+IC
+cb
+zm
+Vl
+xL
+xL
+xL
+xL
+xL
+yO
+xn
+LX
+"}
+(22,1,1) = {"
+LX
+xL
+xL
+xL
+xL
+Ex
+Ex
+uj
+Ex
+Ex
+ce
+LB
+Mp
+Mp
+FA
+cb
+vW
+Vl
+xL
+gL
+LX
+LX
+LX
+LX
+LX
+LX
+"}
+(23,1,1) = {"
+LX
+gL
+gL
+gL
+xL
+HT
+Ex
+xL
+Ex
+Ex
+fs
+Hd
+hN
+Fu
+oB
+SL
+YX
+Vl
+xL
+LX
+LX
+LX
+LX
+LX
+LX
+LX
+"}
+(24,1,1) = {"
+LX
+LX
+LX
+gL
+xL
+jg
+Ex
+xL
+tt
+Tw
+fs
+Hd
+kT
+fm
+XT
+Mp
+Ex
+kN
+xL
+LX
+LX
+LX
+LX
+LX
+LX
+sm
+"}
+(25,1,1) = {"
+sm
+LX
+LX
+LX
+xL
+xL
+JY
+xL
+xL
+xL
+xL
+Ex
+Hs
+pV
+KR
+GA
+dY
+pc
+xL
+LX
+LX
+LX
+fv
+LX
+sm
+sm
+"}
+(26,1,1) = {"
+LX
+LX
+LX
+LX
+xL
+Ex
+Rb
+qx
+Ex
+cG
+xL
+hp
+Ex
+je
+Ex
+GA
+Ax
+Fd
+xL
+LX
+LX
+LX
+fv
+LX
+sm
+sm
+"}
+(27,1,1) = {"
+sm
+LX
+LX
+LX
+xL
+mV
+Rb
+VM
+iL
+rO
+xL
+Ex
+zl
+zl
+zl
+GA
+WE
+DZ
+xL
+LX
+LX
+LX
+LX
+LX
+sm
+sm
+"}
+(28,1,1) = {"
+LX
+LX
+LX
+LX
+xL
+ps
+qO
+Ex
+Ex
+Ex
+xL
+Ex
+rf
+ok
+IX
+je
+je
+kN
+xL
+LX
+LX
+LX
+LX
+sm
+sm
+sm
+"}
+(29,1,1) = {"
+sm
+LX
+LX
+gL
+xL
+AP
+OD
+nV
+CS
+sx
+xL
+hR
+Mc
+Ue
+BS
+Tw
+Ex
+Ex
+xL
+LX
+LX
+LX
+LX
+sm
+sm
+sm
+"}
+(30,1,1) = {"
+sm
+LX
+gL
+gL
+xL
+xL
+xL
+AO
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+LX
+LX
+sm
+sm
+sm
+sm
+sm
+"}
+(31,1,1) = {"
+sm
+sm
+LX
+LX
+gL
+gL
+gL
+LX
+LX
+LX
+gL
+LX
+LX
+gL
+gL
+gL
+gL
+gL
+LX
+LX
+sm
+sm
+sm
+sm
+sm
+sm
+"}
+(32,1,1) = {"
+sm
+sm
+sm
+LX
+gL
+LX
+LX
+LX
+LX
+sm
+sm
+sm
+sm
+sm
+LX
+LX
+LX
+sm
+sm
+sm
+sm
+sm
+sm
+sm
+sm
+sm
+"}
